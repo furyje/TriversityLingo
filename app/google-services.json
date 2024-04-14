@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555552190634",
+    "project_id": "triversitylingo2",
+    "storage_bucket": "triversitylingo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555552190634:android:947a26a231045a1a3be0d3",
+        "android_client_info": {
+          "package_name": "com.example.triversitylingo2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Z_6fl7ac5olhDkj6MffELGccvnK54uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

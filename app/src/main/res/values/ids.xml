@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <item name="imageView8" type="id" />
+    <item name="textView9" type="id" tools:ignore="DuplicateDefinition" />
+    <item name="textView10" type="id" tools:ignore="DuplicateDefinition" />
+    <item name="tvFaqContent" type="id" />
+</resources>
